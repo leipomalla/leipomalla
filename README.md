@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: Just a year and a half ago I had absolutely no idea what is HTML or CSS let alonen jQuery or object oriented programming. But now I'm fast becoming a web developer and it's such fun!
+
 <!--
 **leipomalla/leipomalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
